@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏻‍💻 About Me:
 I enjoy learning new technologies and implementing them to build exciting new projects.<br>
 
 
