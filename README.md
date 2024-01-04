@@ -1,5 +1,6 @@
 # 🧑🏻‍💻 About Me:
 I enjoy learning new technologies and implementing them to build exciting new projects.<br>
+I am currently taking cs50x 2024 as well :) <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http.rotein) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/branyzp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@branyzp) 
